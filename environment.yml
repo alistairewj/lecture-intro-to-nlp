@@ -1,0 +1,18 @@
+name: lecture3.8
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - jupyter
+  - spacy
+  - python=3.8.11
+  - pydotplus
+  - rise
+  - numpy
+  - pandas
+  - seaborn
+  - pip:
+    - nltk
+prefix: /Users/alistairewj/miniconda3/envs/lecture3.8
